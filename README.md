@@ -9,4 +9,7 @@ Screenshot taken:<br><br>
 <li>
   <a href="https://github.com/Moonshallow5/Solar-System-Simulation/blob/main/bodies.csv"> bodies.csv</a> shows the data of each of the planets, the Sun and the Mars rover</li>
 <li><a href="https://github.com/Moonshallow5/Solar-System-Simulation/blob/main/energies.csv"> energies.csv</a> shows the total P.E and K.E of the planets as it orbits around the Sun</li>
+<li><a href="https://github.com/Moonshallow5/Solar-System-Simulation/blob/main/comp-sim.pdf"> comp-sim.pdf</a> shows the report done on building this simulation :)
+
+</li>
 
